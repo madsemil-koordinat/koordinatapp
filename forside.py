@@ -25,7 +25,7 @@ from datetime import datetime
 
 st.set_page_config(layout="wide")
 
-#apply_page_config_and_styles()
+apply_page_config_and_styles()
 
 ###################  INITIALIZATION ####################
 # Initialiser Firestore et Firebase Storage

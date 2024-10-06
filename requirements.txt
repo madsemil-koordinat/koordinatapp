@@ -1,0 +1,11 @@
+numpy
+pandas
+streamlit
+st-click-detector
+matplotlib
+scikit-image
+geopandas==0.14.4
+rasterio
+folium
+firebase-admin
+streamlit-folium

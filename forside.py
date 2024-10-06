@@ -25,7 +25,7 @@ from datetime import datetime
 
 st.set_page_config(layout="wide")
 
-apply_page_config_and_styles()
+#apply_page_config_and_styles()
 
 ###################  INITIALIZATION ####################
 # Initialiser Firestore et Firebase Storage
@@ -575,7 +575,7 @@ else:
     display: flex;
     flex: 1;
     margin: 0px 5px; /* Horizontal margin for spacing */
-    background-color: #052418;
+    
 
 
 
@@ -587,13 +587,13 @@ else:
         align-items: center;
         margin: 0; /* Remove default margin */
         width: 100%;
-        background-color: #052418;
+        
 
     }
     .button-container {
         display: flex;
         width: 100%;
-        background-color: #052418;/* Fill the full width of the container */
+        
         
     }
 
@@ -608,7 +608,7 @@ else:
         cursor: pointer; /* Change cursor on hover */
         transition: background-color 0.3s; /* Smooth transition for hover effect */
         margin: 0px 50px; /* Horizontal margin for spacing */
-        background-color: background-color: #052418;
+        
     
     }
 
